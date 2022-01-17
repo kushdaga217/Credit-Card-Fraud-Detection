@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection
-Use a BoxCox function of scipy library to deal with skewness of data.
+Explore the data using matplotlib and seaborn to get insight about a data. And use a Box-Cox function of scipy to bring columns near to normal distribution. And finally, used a different machine learning algorithm to get best score and accuracy.
